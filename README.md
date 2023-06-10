@@ -14,7 +14,7 @@
 #### 🔨 My recent Pull Requests
 
 - [remove useless and unsafe code](https://github.com/vdbcyril/vdbcyril.github.io/pull/19) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (1 month ago)
-- [upgrade jquery to 3.6.4](https://github.com/vdbcyril/vdbcyril.github.io/pull/18) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (1 month ago)
+- [upgrade jquery to 3.6.4](https://github.com/vdbcyril/vdbcyril.github.io/pull/18) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (2 months ago)
 - [Create codeql.yml](https://github.com/vdbcyril/vdbcyril.github.io/pull/9) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (6 months ago)
 - [Create README.md](https://github.com/vdbcyril/vdbcyril.github.io/pull/8) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (6 months ago)
 
@@ -24,7 +24,7 @@
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) (2 weeks ago)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️ (2 weeks ago)
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached (2 weeks ago)
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational (2 weeks ago)
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational (3 weeks ago)
 - [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can &#34;own&#34; or to perform reproducible research. (4 weeks ago)
 - [SourceCode-AI/aura](https://github.com/SourceCode-AI/aura) - Python source code auditing and static analysis on a large scale (1 month ago)
 - [databricks/terraform-databricks-examples](https://github.com/databricks/terraform-databricks-examples) - Examples of using Terraform to deploy Databricks resources  (1 month ago)

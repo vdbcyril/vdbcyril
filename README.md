@@ -20,6 +20,7 @@
 
 #### ⭐ Recent Stars
 
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (today)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (1 week ago)
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) (3 weeks ago)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️ (3 weeks ago)
@@ -29,7 +30,6 @@
 - [SourceCode-AI/aura](https://github.com/SourceCode-AI/aura) - Python source code auditing and static analysis on a large scale (1 month ago)
 - [databricks/terraform-databricks-examples](https://github.com/databricks/terraform-databricks-examples) - Examples of using Terraform to deploy Databricks resources  (1 month ago)
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Developer-first AgentOps platform - deploy, test, and monitor AI agents (1 month ago)
-- [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code (2 months ago)
 
 #### 👯 Check out some of my recent followers
 

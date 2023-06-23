@@ -29,7 +29,7 @@
 - [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can &#34;own&#34; or to perform reproducible research. (1 month ago)
 - [SourceCode-AI/aura](https://github.com/SourceCode-AI/aura) - Python source code auditing and static analysis on a large scale (1 month ago)
 - [databricks/terraform-databricks-examples](https://github.com/databricks/terraform-databricks-examples) - Examples of using Terraform to deploy Databricks resources  (1 month ago)
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Developer-first AgentOps platform - deploy, test, and monitor AI agents (1 month ago)
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Developer-first AgentOps platform - deploy, test, and monitor AI agents (2 months ago)
 
 #### 👯 Check out some of my recent followers
 

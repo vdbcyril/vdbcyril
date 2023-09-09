@@ -14,12 +14,13 @@
 #### 🔨 My recent Pull Requests
 
 - [remove useless and unsafe code](https://github.com/vdbcyril/vdbcyril.github.io/pull/19) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (4 months ago)
-- [upgrade jquery to 3.6.4](https://github.com/vdbcyril/vdbcyril.github.io/pull/18) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (4 months ago)
+- [upgrade jquery to 3.6.4](https://github.com/vdbcyril/vdbcyril.github.io/pull/18) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (5 months ago)
 - [Create codeql.yml](https://github.com/vdbcyril/vdbcyril.github.io/pull/9) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (9 months ago)
 - [Create README.md](https://github.com/vdbcyril/vdbcyril.github.io/pull/8) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (9 months ago)
 
 #### ⭐ Recent Stars
 
+- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (4 days ago)
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources. (1 month ago)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (1 month ago)
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️   (1 month ago)
@@ -29,7 +30,6 @@
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) (3 months ago)
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached (3 months ago)
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into pandas, making dataframes conversational (3 months ago)
-- [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can &#34;own&#34; or to perform reproducible research. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 

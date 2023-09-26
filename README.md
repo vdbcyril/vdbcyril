@@ -20,10 +20,10 @@
 
 #### ⭐ Recent Stars
 
-- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. demo:  https://demo.paisa.fyi (2 days ago)
-- [autorope/donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car. (4 days ago)
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. demo:  https://demo.paisa.fyi (3 days ago)
+- [autorope/donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car. (5 days ago)
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing (2 weeks ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 weeks ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (3 weeks ago)
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources. (2 months ago)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (2 months ago)
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️   (2 months ago)

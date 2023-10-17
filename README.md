@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) - My personal website (5 months ago)
+- [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) - My personal website (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -13,7 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [remove useless and unsafe code](https://github.com/vdbcyril/vdbcyril.github.io/pull/19) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (5 months ago)
+- [remove useless and unsafe code](https://github.com/vdbcyril/vdbcyril.github.io/pull/19) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (6 months ago)
 - [upgrade jquery to 3.6.4](https://github.com/vdbcyril/vdbcyril.github.io/pull/18) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (6 months ago)
 - [Create codeql.yml](https://github.com/vdbcyril/vdbcyril.github.io/pull/9) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (10 months ago)
 - [Create README.md](https://github.com/vdbcyril/vdbcyril.github.io/pull/8) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (10 months ago)
@@ -25,9 +25,9 @@
 - [autorope/donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car. (3 weeks ago)
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing (1 month ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 month ago)
-- [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources. (2 months ago)
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (2 months ago)
-- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️   (2 months ago)
+- [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources. (3 months ago)
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (3 months ago)
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️   (3 months ago)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️ (3 months ago)
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (4 months ago)
 

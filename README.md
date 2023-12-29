@@ -21,7 +21,7 @@
 #### ⭐ Recent Stars
 
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  (2 weeks ago)
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.  (4 weeks ago)
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.  (1 month ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 months ago)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (2 months ago)
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi (3 months ago)

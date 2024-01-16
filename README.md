@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [jskherman/cv.typ](https://github.com/jskherman/cv.typ) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data. (1 day ago)
+- [jskherman/cv.typ](https://github.com/jskherman/cv.typ) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data. (2 days ago)
 - [ninjas-code-official/food-delivery-multivendor](https://github.com/ninjas-code-official/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐  (1 week ago)
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  (1 month ago)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.  (1 month ago)

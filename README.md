@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (4 days ago)
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. (4 days ago)
-- [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book (6 days ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (5 days ago)
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. (5 days ago)
+- [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book (1 week ago)
 - [jskherman/cv.typ](https://github.com/jskherman/cv.typ) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data. (2 weeks ago)
 - [ninjas-code-official/food-delivery-multivendor](https://github.com/ninjas-code-official/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐  (3 weeks ago)
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  (1 month ago)

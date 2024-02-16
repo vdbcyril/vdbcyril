@@ -20,7 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. (1 week ago)
+- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Web-based, real-time log viewer for Kubernetes clusters (1 day ago)
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. (2 weeks ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (3 weeks ago)
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. (3 weeks ago)
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book (3 weeks ago)
@@ -29,7 +30,6 @@
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  (2 months ago)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.  (2 months ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (3 months ago)
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (4 months ago)
 
 #### 👯 Check out some of my recent followers
 

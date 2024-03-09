@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python (4 days ago)
+- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python (5 days ago)
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool (1 week ago)
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Web-based, real-time log viewer for Kubernetes (3 weeks ago)
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. (1 month ago)

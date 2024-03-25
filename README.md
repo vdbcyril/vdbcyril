@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (2 days ago)
-- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (4 days ago)
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust (5 days ago)
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (6 days ago)
-- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python (2 weeks ago)
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (3 days ago)
+- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (5 days ago)
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust (6 days ago)
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (1 week ago)
+- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python (3 weeks ago)
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool (3 weeks ago)
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Web-based, real-time log viewer for Kubernetes (1 month ago)
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. (1 month ago)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 month ago)
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. (1 month ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (2 months ago)
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 

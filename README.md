@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (1 day ago)
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (4 days ago)
-- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (6 days ago)
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (2 days ago)
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (5 days ago)
+- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (1 week ago)
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust (1 week ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (1 week ago)
 - [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python (3 weeks ago)

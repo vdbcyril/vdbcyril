@@ -14,15 +14,15 @@
 #### 🔨 My recent Pull Requests
 
 - [remove useless and unsafe code](https://github.com/vdbcyril/vdbcyril.github.io/pull/19) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (11 months ago)
-- [upgrade jquery to 3.6.4](https://github.com/vdbcyril/vdbcyril.github.io/pull/18) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (11 months ago)
+- [upgrade jquery to 3.6.4](https://github.com/vdbcyril/vdbcyril.github.io/pull/18) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (1 year ago)
 - [Create codeql.yml](https://github.com/vdbcyril/vdbcyril.github.io/pull/9) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (1 year ago)
 - [Create README.md](https://github.com/vdbcyril/vdbcyril.github.io/pull/8) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks (1 day ago)
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks (2 days ago)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (1 week ago)
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (1 week ago)
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (2 weeks ago)
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (2 weeks ago)
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust (2 weeks ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (2 weeks ago)

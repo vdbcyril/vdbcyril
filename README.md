@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks (2 days ago)
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks (3 days ago)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (1 week ago)
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (2 weeks ago)
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (2 weeks ago)

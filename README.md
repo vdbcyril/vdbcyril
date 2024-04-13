@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [airbnb/chronon](https://github.com/airbnb/chronon) - Chronon is a data platform for serving for AI/ML applications. (1 day ago)
+- [airbnb/chronon](https://github.com/airbnb/chronon) - Chronon is a data platform for serving for AI/ML applications. (2 days ago)
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks (1 week ago)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (2 weeks ago)
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (3 weeks ago)

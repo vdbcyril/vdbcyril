@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) - My personal website (11 months ago)
+- [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) - My personal website (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -13,14 +13,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [remove useless and unsafe code](https://github.com/vdbcyril/vdbcyril.github.io/pull/19) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (11 months ago)
+- [remove useless and unsafe code](https://github.com/vdbcyril/vdbcyril.github.io/pull/19) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (1 year ago)
 - [upgrade jquery to 3.6.4](https://github.com/vdbcyril/vdbcyril.github.io/pull/18) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (1 year ago)
 - [Create codeql.yml](https://github.com/vdbcyril/vdbcyril.github.io/pull/9) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (1 year ago)
 - [Create README.md](https://github.com/vdbcyril/vdbcyril.github.io/pull/8) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [airbnb/chronon](https://github.com/airbnb/chronon) - Chronon is a data platform for serving for AI/ML applications. (2 days ago)
+- [airbnb/chronon](https://github.com/airbnb/chronon) - Chronon is a data platform for serving for AI/ML applications. (3 days ago)
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks (1 week ago)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (2 weeks ago)
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (3 weeks ago)

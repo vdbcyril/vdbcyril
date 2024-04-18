@@ -20,14 +20,14 @@
 
 #### ⭐ Recent Stars
 
-- [sourcegraph/awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai) - A list of AI coding tools (assistants, completions, refactoring, etc.) (1 day ago)
-- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer &amp; language server for Python (1 day ago)
-- [airbnb/chronon](https://github.com/airbnb/chronon) - Chronon is a data platform for serving for AI/ML applications. (6 days ago)
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks (2 weeks ago)
+- [sourcegraph/awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai) - A list of AI coding tools (assistants, completions, refactoring, etc.) (2 days ago)
+- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer &amp; language server for Python (2 days ago)
+- [airbnb/chronon](https://github.com/airbnb/chronon) - Chronon is a data platform for serving for AI/ML applications. (1 week ago)
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for building complex, real-world software with LLMs (2 weeks ago)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (3 weeks ago)
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (3 weeks ago)
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (4 weeks ago)
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust (4 weeks ago)
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust (1 month ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (1 month ago)
 - [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python (1 month ago)
 

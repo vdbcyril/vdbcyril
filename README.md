@@ -19,12 +19,12 @@
 
 #### ⭐ Recent Stars
 
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell. (4 days ago)
-- [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn. (5 days ago)
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell. (5 days ago)
+- [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn. (6 days ago)
 - [sourcegraph/awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai) - A list of AI coding tools (assistants, completions, refactoring, etc.) (2 weeks ago)
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer &amp; language server for Python (2 weeks ago)
 - [airbnb/chronon](https://github.com/airbnb/chronon) - Chronon is a data platform for serving for AI/ML applications. (2 weeks ago)
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for building complex, real-world software with LLMs (3 weeks ago)
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for building complex, real-world software with LLMs (4 weeks ago)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (1 month ago)
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (1 month ago)
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (1 month ago)

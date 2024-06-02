@@ -19,13 +19,13 @@
 
 #### ⭐ Recent Stars
 
-- [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams (1 week ago)
+- [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams (2 weeks ago)
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell. (1 month ago)
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn. (1 month ago)
 - [sourcegraph/awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai) - A list of AI coding tools (assistants, completions, refactoring, etc.) (1 month ago)
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer &amp; language server for Python (1 month ago)
 - [airbnb/chronon](https://github.com/airbnb/chronon) - Chronon is a data platform for serving for AI/ML applications. (1 month ago)
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks. (1 month ago)
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks. (2 months ago)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (2 months ago)
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (2 months ago)
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (2 months ago)

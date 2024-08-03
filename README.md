@@ -19,7 +19,7 @@
 
 #### ⭐ Recent Stars
 
-- [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects (6 days ago)
+- [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects (1 week ago)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. (3 weeks ago)
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.  (3 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 weeks ago)

@@ -32,11 +32,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Kos-M](https://github.com/Kos-M)
 - [yashsinghal8107](https://github.com/yashsinghal8107)
 - [OrcanIntell](https://github.com/OrcanIntell)
 - [QuentMey](https://github.com/QuentMey)
 - [sunilkumarm080](https://github.com/sunilkumarm080)
-- [deepchatterjeevns](https://github.com/deepchatterjeevns)
 
 #### 📫 How to reach me
 

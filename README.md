@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) - My personal website (2 weeks ago)
+- [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) - My personal website (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -13,7 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [bump rexml](https://github.com/vdbcyril/vdbcyril.github.io/pull/21) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (2 weeks ago)
+- [bump rexml](https://github.com/vdbcyril/vdbcyril.github.io/pull/21) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (3 weeks ago)
 - [remove useless and unsafe code](https://github.com/vdbcyril/vdbcyril.github.io/pull/19) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (2 years ago)
 - [upgrade jquery to 3.6.4](https://github.com/vdbcyril/vdbcyril.github.io/pull/18) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (2 years ago)
 - [Create codeql.yml](https://github.com/vdbcyril/vdbcyril.github.io/pull/9) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (2 years ago)
@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (3 days ago)
-- [DataScientest-Studio/PyFungi](https://github.com/DataScientest-Studio/PyFungi) - Mushroom recognition project&#39;s repository (2 weeks ago)
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (4 days ago)
+- [DataScientest-Studio/PyFungi](https://github.com/DataScientest-Studio/PyFungi) - Mushroom recognition project&#39;s repository (3 weeks ago)
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects (4 months ago)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. (4 months ago)
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.  (4 months ago)

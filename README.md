@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (2 weeks ago)
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (3 weeks ago)
 - [DataScientest-Studio/PyFungi](https://github.com/DataScientest-Studio/PyFungi) - Mushroom recognition project&#39;s repository (1 month ago)
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects (4 months ago)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. (5 months ago)

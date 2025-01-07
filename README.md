@@ -21,6 +21,7 @@
 
 #### ⭐ Recent Stars
 
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python (1 day ago)
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (1 month ago)
 - [DataScientest-Studio/PyFungi](https://github.com/DataScientest-Studio/PyFungi) - Mushroom recognition project&#39;s repository (1 month ago)
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects (5 months ago)
@@ -30,7 +31,6 @@
 - [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks (6 months ago)
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (6 months ago)
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (6 months ago)
-- [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams (7 months ago)
 
 #### 👯 Check out some of my recent followers
 

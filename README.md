@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) - My personal website (1 month ago)
+- [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) - My personal website (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -13,7 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [bump rexml](https://github.com/vdbcyril/vdbcyril.github.io/pull/21) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (1 month ago)
+- [bump rexml](https://github.com/vdbcyril/vdbcyril.github.io/pull/21) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (2 months ago)
 - [remove useless and unsafe code](https://github.com/vdbcyril/vdbcyril.github.io/pull/19) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (2 years ago)
 - [upgrade jquery to 3.6.4](https://github.com/vdbcyril/vdbcyril.github.io/pull/18) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (2 years ago)
 - [Create codeql.yml](https://github.com/vdbcyril/vdbcyril.github.io/pull/9) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (2 years ago)
@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python (3 days ago)
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python (4 days ago)
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (1 month ago)
-- [DataScientest-Studio/PyFungi](https://github.com/DataScientest-Studio/PyFungi) - Mushroom recognition project&#39;s repository (1 month ago)
+- [DataScientest-Studio/PyFungi](https://github.com/DataScientest-Studio/PyFungi) - Mushroom recognition project&#39;s repository (2 months ago)
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects (5 months ago)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. (6 months ago)
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.  (6 months ago)

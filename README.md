@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos (5 days ago)
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos (6 days ago)
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python (2 months ago)
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (3 months ago)
 - [DataScientest-Studio/PyFungi](https://github.com/DataScientest-Studio/PyFungi) - Mushroom recognition project&#39;s repository (4 months ago)

@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) - My personal website (5 months ago)
+- [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) - My personal website (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -13,7 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [bump rexml](https://github.com/vdbcyril/vdbcyril.github.io/pull/21) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (5 months ago)
+- [bump rexml](https://github.com/vdbcyril/vdbcyril.github.io/pull/21) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (6 months ago)
 - [remove useless and unsafe code](https://github.com/vdbcyril/vdbcyril.github.io/pull/19) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (2 years ago)
 - [upgrade jquery to 3.6.4](https://github.com/vdbcyril/vdbcyril.github.io/pull/18) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (2 years ago)
 - [Create codeql.yml](https://github.com/vdbcyril/vdbcyril.github.io/pull/9) on [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) (2 years ago)

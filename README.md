@@ -2,7 +2,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vdbcyril/vdbcyril.github.io](https://github.com/vdbcyril/vdbcyril.github.io) - My personal website (1 year ago)
 
 #### 🌱 My latest projects
 
